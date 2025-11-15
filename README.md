@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vishdevs/receipt-agent/blob/main/Receipt_Agent_Colab.ipynb)
 # Receipt Agent (Offline)
 
 This is an offline AI agent that scans any receipt image, extracts text using Tesseract OCR, finds the vendor/date/amount, categorizes the expense, and exports a clean CSV file.
